@@ -1,4 +1,4 @@
 # Graduation project at Deep Learning School (MIPT)
 ## Face recognition
-The main-face-recognition.ipynb implements main part of the project. 
-The directory 'supplement' contains the trained models and learning history.
+The main part of the project is implemented in main-face-recognition.ipynb. 
+The directory 'supplement' contains pre-trained models and learning history.
